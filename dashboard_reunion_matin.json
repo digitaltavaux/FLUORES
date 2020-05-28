@@ -28,6 +28,11 @@
       "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/kpi-cdp",
       "duration": 90,
       "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/maintenance",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
     }
   ]
 }
