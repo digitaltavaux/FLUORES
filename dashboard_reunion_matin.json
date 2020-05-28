@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/qhse",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/performance",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/suivi-atelier",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/suivi-atelier-clm",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/reunion-quotidienne-fluores/kpi-cdp",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
